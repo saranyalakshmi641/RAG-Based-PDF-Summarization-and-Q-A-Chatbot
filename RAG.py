@@ -10,7 +10,7 @@ import numpy as np
 import os
 
 # Configure Gemini API Key
-genai.configure(api_key='AIzaSyDCgKCKWucKNjvph3CF9oeB79dJ-31pLfg')  # Replace with your key
+genai.configure(api_key='api_key')  # Replace with your key
 
 # ---------------------------------------
 # PDF TEXT EXTRACTION FUNCTION
